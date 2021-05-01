@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Welcome to my mental breakdown</h1>
+#->Welcome to my mental breakdown<-
 <p align="center">
 ## Watch me stuggle as my IQ gets lower
 </p>  
