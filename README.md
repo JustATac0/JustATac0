@@ -1,9 +1,19 @@
 <p align="center">
 # Welcome to my mental breakdown and suffering 
+</p>
+<p align="center">
 ## Watch me stuggle as my IQ gets lower
+</p>  
+<p align="center">
 ### And lower...
+</p>  
+<p align="center">
 #### And lower...
+</p>  
+<p align="center">  
 ##### And lower...
+</p>  
+<p align="center">
 ###### Until there's no lower I can go
 </p>
 
