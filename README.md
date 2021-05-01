@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
 # Welcome to my mental breakdown and suffering 
-</p>
+</div>
 <p align="center">
 ## Watch me stuggle as my IQ gets lower
 </p>  
