@@ -1,4 +1,4 @@
-->Welcome to my mental breakdown<-
+# <p align="center">Welcome to my mental breakdown</p> 
 <p align="center">
 ## Watch me stuggle as my IQ gets lower
 </p>  
