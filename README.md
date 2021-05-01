@@ -1,9 +1,11 @@
+<p align="center">
 # Welcome to my mental breakdown and suffering 
 ## Watch me stuggle as my IQ gets lower
 ### And lower...
 #### And lower...
 ##### And lower...
 ###### Until there's no lower I can go
+</p>
 
 But anyway, my main reason for being on here right now is to publish examples to help people out with making discord bots using **discord.py**
 
